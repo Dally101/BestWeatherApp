@@ -364,15 +364,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Native Community** - Excellent ecosystem
 
 ## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/the-best-weather-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/the-best-weather-app/discussions)
-- **Email**: your.email@example.com
+- **Email**: abhirooprt03@gmail.com
 
 ## 🔮 Roadmap
 
 - [ ] Weather radar integration
-- [ ] Severe weather warnings
 - [ ] Historical weather data
 - [ ] Social weather sharing
 - [ ] Apple Watch companion app
@@ -382,6 +378,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ and ☀️ by [Your Name]**
-
-*If you find this project helpful, please consider giving it a ⭐ on GitHub!* 
+**Made with ❤️ and ☀️ by Abhi Roop Reddy Tokala**
