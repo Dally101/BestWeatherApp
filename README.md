@@ -75,7 +75,7 @@ A sophisticated React Native weather application built with Expo that goes beyon
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/the-best-weather-app.git
+git clone https://github.com/Dally101/BestWeatherApp.git
 cd the-best-weather-app
 ```
 
