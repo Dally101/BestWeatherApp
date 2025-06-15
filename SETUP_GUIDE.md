@@ -21,10 +21,10 @@ Before starting, ensure you have:
 ### 1.1 Clone the Repository
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/the-best-weather-app.git
+git clone https://github.com/Dally101/BestWeatherApp.git
 
 # Navigate to the project directory
-cd the-best-weather-app
+cd BestWeatherApp
 ```
 
 ### 1.2 Install Dependencies
@@ -45,10 +45,10 @@ The app requires 4 API keys for full functionality. Don't worry - most are free!
 ### 2.1 Create Environment File
 ```bash
 # Copy the example environment file
-cp env.example .env
+cp .env.example .env
 
 # Or on Windows
-copy env.example .env
+copy .env.example .env
 ```
 
 ### 2.2 Get OpenAI API Key (Required for AI features)
@@ -301,8 +301,7 @@ Once you have the app running:
 
 ## 📞 Need Help?
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/the-best-weather-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/the-best-weather-app/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Dally101/BestWeatherApp/issues)
 - **Documentation**: Check README.md for more details
 
 ## 🎉 Success!
@@ -321,4 +320,4 @@ Enjoy exploring your new weather app! 🌤️
 
 ---
 
-**Made with ❤️ by The Best Weather App Team** 
+**Made with ❤️ by Abhi Roop Reddy Tokala** 

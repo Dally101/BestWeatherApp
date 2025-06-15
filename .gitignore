@@ -7,8 +7,6 @@ dist/
 web-build/
 expo-env.d.ts
 # Development tools and IDE files
-.bolt/
-.cursor/
 .vscode/
 .idea/
 

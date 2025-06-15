@@ -14,7 +14,7 @@ import { WeatherData, LocationData, WeatherAlert } from '@/types/weather';
  * - Weather alert generation
  * - Error handling and fallback mechanisms
  * 
- * @author The Best Weather App Team
+ * @author Abhi Roop Reddy Tokala
  * @version 1.0.0
  */
 

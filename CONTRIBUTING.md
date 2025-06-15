@@ -5,7 +5,7 @@ Thank you for your interest in contributing to The Best Weather App! This docume
 ## 🤝 How to Contribute
 
 ### Reporting Issues
-- Use the [GitHub Issues](https://github.com/yourusername/the-best-weather-app/issues) page
+- Use the [GitHub Issues](https://github.com/Dally101/BestWeatherApp/issues) page
 - Search existing issues before creating a new one
 - Provide detailed information including:
   - Steps to reproduce
@@ -14,7 +14,7 @@ Thank you for your interest in contributing to The Best Weather App! This docume
   - Screenshots if applicable
 
 ### Suggesting Features
-- Open a [GitHub Discussion](https://github.com/yourusername/the-best-weather-app/discussions)
+- Open a [GitHub Discussion](https://github.com/Dally101/BestWeatherApp/discussions)
 - Describe the feature and its use case
 - Explain how it fits with the app's goals
 
@@ -22,7 +22,7 @@ Thank you for your interest in contributing to The Best Weather App! This docume
 
 #### Development Setup
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/the-best-weather-app.git`
+2. Clone your fork: `git clone https://github.com/Dally101/BestWeatherApp.git`
 3. Install dependencies: `npm install`
 4. Set up environment variables (see README.md)
 5. Create a feature branch: `git checkout -b feature/your-feature-name`
@@ -153,9 +153,9 @@ We follow [Semantic Versioning](https://semver.org/):
 
 ## 🤔 Questions?
 
-- **General Questions**: [GitHub Discussions](https://github.com/yourusername/the-best-weather-app/discussions)
-- **Bug Reports**: [GitHub Issues](https://github.com/yourusername/the-best-weather-app/issues)
-- **Direct Contact**: your.email@example.com
+- **General Questions**: [GitHub Discussions](https://github.com/Dally101/BestWeatherApp/discussions)
+- **Bug Reports**: [GitHub Issues](https://github.com/Dally101/BestWeatherApp/issues)
+- **Direct Contact**: abhirooprt03@gmail.com
 
 ## 📄 License
 

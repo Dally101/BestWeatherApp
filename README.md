@@ -75,8 +75,8 @@ A sophisticated React Native weather application built with Expo that goes beyon
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/the-best-weather-app.git
-cd the-best-weather-app
+git clone https://github.com/Dally101/BestWeatherApp.git
+cd BestWeatherApp
 ```
 
 ### 2. Install Dependencies
@@ -180,7 +180,7 @@ npx expo start --android
 ## 📁 Project Structure
 
 ```
-the-best-weather-app/
+BestWeatherApp/
 ├── app/                          # Expo Router pages
 │   ├── (tabs)/                   # Tab navigation screens
 │   │   ├── index.tsx            # Current weather screen
@@ -365,9 +365,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/the-best-weather-app/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/the-best-weather-app/discussions)
-- **Email**: your.email@example.com
+- **Issues**: [GitHub Issues](https://github.com/Dally101/BestWeatherApp/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Dally101/BestWeatherApp/discussions)
+- **Email**: abhirooprt03@gmail.com
 
 ## 🔮 Roadmap
 
@@ -382,6 +382,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ and ☀️ by [Your Name]**
+**Made with ❤️ and ☀️ by Abhi Roop Reddy Tokala**
 
 *If you find this project helpful, please consider giving it a ⭐ on GitHub!* 
