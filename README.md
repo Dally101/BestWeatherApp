@@ -76,7 +76,11 @@ A sophisticated React Native weather application built with Expo that goes beyon
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/Dally101/BestWeatherApp.git
+<<<<<<< HEAD
 cd BestWeatherApp
+=======
+cd the-best-weather-app
+>>>>>>> 54d98d7479ef824abaf1d42887c432209928a355
 ```
 
 ### 2. Install Dependencies
@@ -364,15 +368,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **React Native Community** - Excellent ecosystem
 
 ## 📞 Support
+<<<<<<< HEAD
 
 - **Issues**: [GitHub Issues](https://github.com/Dally101/BestWeatherApp/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Dally101/BestWeatherApp/discussions)
+=======
+>>>>>>> 54d98d7479ef824abaf1d42887c432209928a355
 - **Email**: abhirooprt03@gmail.com
 
 ## 🔮 Roadmap
 
 - [ ] Weather radar integration
-- [ ] Severe weather warnings
 - [ ] Historical weather data
 - [ ] Social weather sharing
 - [ ] Apple Watch companion app
@@ -383,5 +389,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ and ☀️ by Abhi Roop Reddy Tokala**
+<<<<<<< HEAD
 
 *If you find this project helpful, please consider giving it a ⭐ on GitHub!* 
+=======
+>>>>>>> 54d98d7479ef824abaf1d42887c432209928a355
