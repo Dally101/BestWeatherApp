@@ -1,37 +1,52 @@
 {
   "expo": {
-    "name": "WeatherAssistant",
+    "name": "The Best Weather App",
     "slug": "weather-assistant",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "weatherapp",
+    "scheme": "bestweatherapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "description": "AI-powered weather assistant with smart notifications, calendar integration, and personalized recommendations. Get real-time weather data, forecasts, air quality monitoring, and intelligent weather insights.",
+    "keywords": ["weather", "forecast", "AI", "notifications", "calendar", "temperature", "climate", "meteorology"],
+    "primaryColor": "#4A90E2",
     "splash": {
       "image": "./assets/images/icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#4A90E2"
     },
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.weatherassistant.app",
+      "bundleIdentifier": "com.abhiroop.bestweatherapp",
+      "buildNumber": "1",
       "infoPlist": {
-        "ITSAppUsesNonExemptEncryption": false
+        "ITSAppUsesNonExemptEncryption": false,
+        "NSLocationWhenInUseUsageDescription": "This app uses your location to provide accurate weather information for your area.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "This app uses your location to provide accurate weather information and send location-based weather alerts.",
+        "NSCalendarsUsageDescription": "This app accesses your calendar to provide weather advice for your upcoming events.",
+        "NSUserNotificationsUsageDescription": "This app sends weather alerts and notifications to keep you informed about important weather changes."
+      },
+      "config": {
+        "usesNonExemptEncryption": false
       }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#4A90E2"
       },
-      "package": "com.weatherassistant.app",
+      "package": "com.abhiroop.bestweatherapp",
+      "versionCode": 1,
       "permissions": [
         "android.permission.ACCESS_COARSE_LOCATION",
-        "android.permission.ACCESS_FINE_LOCATION"
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.READ_CALENDAR",
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        "android.permission.WAKE_LOCK"
       ]
     },
     "web": {
@@ -45,15 +60,21 @@
       [
         "expo-location",
         {
-          "locationAlwaysAndWhenInUsePermission": "This app uses location to provide personalized weather information.",
-          "locationWhenInUsePermission": "This app uses location to provide personalized weather information."
+          "locationAlwaysAndWhenInUsePermission": "This app uses your location to provide accurate weather information for your area.",
+          "locationWhenInUsePermission": "This app uses your location to provide accurate weather information for your area."
         }
       ],
       [
         "expo-notifications",
         {
           "icon": "./assets/images/icon.png",
-          "color": "#ffffff"
+          "color": "#4A90E2"
+        }
+      ],
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "This app accesses your calendar to provide weather advice for your upcoming events."
         }
       ]
     ],
